@@ -31,5 +31,4 @@ public class ChatController {
         return new ChatResponse(reply);
 
     }
-
 }
